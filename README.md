@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a React Developer<br>👯 I’m looking to collaborate on Web Automation and Scraping projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning more about MERN and full stack<br>💬 Ask me about Automation testing<br>⚡ Fun fact - lazy people find the fastest solutions
+🔭 I’m currently working as a React Developer<br>👯 I’m looking to collaborate on Web Automation and Scraping projects<br>🌱 I’m currently learning more about MERN and full stack<br>💬 Ask me about Automation testing<br>⚡ Fun fact - lazy people find the fastest solutions
 
 
 ## 🌐 Socials:
