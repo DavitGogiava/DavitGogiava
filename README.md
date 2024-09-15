@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a MERN Full-Stack Developer<br>👯 I’m looking to collaborate on Front/Full Development and Web Automation projects<br>🌱 I’m currently learning more about Three.js<br>⚡ Fun fact - lazy people find the fastest solutions
-
+🔭 I’m currently working as a MERN Full-Stack Developer<br>👯 I’m looking to collaborate on Web Development projects<br>🌱 I’m currently learning more about Three.js<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dato.gogiava/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davit-gogiava/) 
